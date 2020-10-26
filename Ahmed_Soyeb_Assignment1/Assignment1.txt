@@ -1,0 +1,14 @@
+clear
+size
+is_empty
+get 1
+set 0 set
+add 0 "Line 2"
+add_last "Line 2"
+add_last "Line 3"
+add_last "Line 4"
+add_last "Line 5"
+add_last "Line 6"
+remove 4
+rotate
+print_list

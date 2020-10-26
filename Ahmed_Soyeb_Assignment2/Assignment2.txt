@@ -1,0 +1,12 @@
+add_last "Salt Lake City"
+add_first "Washington, D.C."
+first
+last
+size
+is_empty
+remove_first 
+remove_last
+size
+is_empty
+add_last "New York City"
+size
